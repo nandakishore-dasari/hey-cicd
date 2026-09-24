@@ -11,8 +11,8 @@ jobs:
         run: date
       - name: Show operating system
         run: uname -a
-        
-  jobs:
+
+  
   secrets-demo:
     runs-on: ubuntu-latest
     steps:
